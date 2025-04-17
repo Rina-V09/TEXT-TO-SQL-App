@@ -1,0 +1,14 @@
+/* Change background color */
+body {
+    background-color: #f0f2f6;  /* Light Grayish Blue */
+}
+
+/* Optional: Change main content background */
+.stApp {
+    background-color: #e6f7ff;  /* Light Blue */
+}
+
+/* Optional: Change header color */
+h1 {
+    color: #004080; /* Dark Blue */
+}
